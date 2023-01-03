@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^%1 [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+
+# Rewrite rule for article
+# RewriteRule ^article/([0-9a-zA-Z_-]+)/([0-9a-zA-Z_-]+)/ ./templates/article.php?slug=$1&category=$2&status=Published
+# RewriteRule ^article/([0-9a-zA-Z_-]+)/([0-9a-zA-Z_-]+)/ ./templates/article.php?slug=$1&category=$2&status=Published
