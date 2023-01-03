@@ -2,7 +2,7 @@
 A web-based student publication system for Bulacan State University College of Information and Communications Technology (BulSU-CICT). Through a series of pitching and formal interviews with the client, the project improved CURSOR Publication’s editorial process by reducing time spent on content entry, searching, and administration.
 
 
-### Screenshots
+### Output Screenshots
 
 #### Main Page : 
 <img src="screenshots/newspage.png">
@@ -18,3 +18,27 @@ A web-based student publication system for Bulacan State University College of I
 
 #### About Page : 
 <img src="screenshots/aboutpage.png">
+
+#### Admin Dashboard Page : 
+<img src="screenshots/admindashboard.png">
+
+#### Logs Page : 
+<img src="screenshots/logs.png">
+
+#### Articles Page : 
+<img src="screenshots/articles.png">
+
+#### Notifications Page : 
+<img src="screenshots/notification.png">
+
+#### Newsletter Page : 
+<img src="screenshots/newsletter.png">
+
+#### Staffs and Editorial Board Page : 
+<img src="screenshots/staffs.png">
+
+#### Gallery Page : 
+<img src="screenshots/gallery.png">
+
+#### Videos Page : 
+<img src="screenshots/videos.png">
