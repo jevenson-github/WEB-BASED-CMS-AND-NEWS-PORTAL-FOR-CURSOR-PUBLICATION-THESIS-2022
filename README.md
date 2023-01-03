@@ -6,3 +6,15 @@ A web-based student publication system for Bulacan State University College of I
 
 #### Main Page : 
 <img src="screenshots/newspage.png">
+
+#### Editorial Page : 
+<img src="screenshots/editorialpage.png">
+
+#### Feature Page : 
+<img src="screenshots/featurepage.png">
+
+#### Literary Page : 
+<img src="screenshots/literarypage.png">
+
+#### About Page : 
+<img src="screenshots/aboutpage.png">
